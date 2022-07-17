@@ -1,0 +1,102 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+#tripod{
+    width: 95%;
+   
+}
+.fa-star , .fa-star-half-stroke {
+    color: orange;
+}
+#tr-text{
+    width: 95%;
+    
+}
+#mic{
+    width:95%;
+    
+}
+#mic-text{
+    width: 95%;
+}
+#buds{
+    width: 95%;
+}
+#buds-text{
+    width: 95%;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 300px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+#headline{
+    text-align: center;
+    margin-top: 50px;
+}
+.box1{
+    box-shadow: 2px 2px 2px 2px lightgrey;
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 200px;
+    height: 430px;
+    border-radius: 10px;
+    
+}
+.box2{
+    box-shadow: 2px 2px 2px 2px lightgrey;
+    padding-left: 10px;
+    padding-top: 10px; 
+    width: 200px;
+    height: 430px; 
+    border-radius: 10px;
+}
+.box3{
+    box-shadow: 2px 2px 2px 2px lightgrey;
+    padding-left: 10px;
+    width: 200px;
+    height: 430px;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+#drone{
+    width: 95%;
+}
+#drone-text{
+    width: 95%;
+}
+#light{
+   width: 95%;
+   height: 35%;
+}
+#light-text{
+    width: 95%;
+}
+#photo{
+    width: 95%;
+}
+.container1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-right: 300px ;
+    padding-bottom: 40px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: x-small;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#be{
+    color: red;
+    padding-bottom: 20px;
+    margin-top: -10px;
+    font-family: 'Lobster', cursive;
+    font-size: xx-large;
+}
